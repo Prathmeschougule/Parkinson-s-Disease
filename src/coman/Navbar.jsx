@@ -4,7 +4,7 @@ function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="bg-blue-500 text-white w-full ">
+    <nav className="bg-green-300 text- w-full ">
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
 
@@ -15,9 +15,10 @@ function Navbar() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">
-            <a href="#" className="hover:text-blue-200 transition">Home</a>
-            <a href="#" className="hover:text-blue-200 transition">Exercises</a>
-            <a href="#" className="hover:text-blue-200 transition">About</a>
+            <a href="#" className="hover:text-white transition text-lg">Home</a>
+            <a href="#" className="hover:text-white transition text-lg">Exercises</a>
+            <a href="#" className="hover:text-white transition text-lg">Notes</a>
+            <a href="#" className="hover:text-white transition text-lg">About</a>
           </div>
 
           {/* Mobile Menu Button */}

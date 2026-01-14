@@ -16,35 +16,35 @@ function Benefits() {
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Reduces stiffness and pain</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Enhances balance and posture</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Reduces risk of falls</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Boosts confidence</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Exercise in a safe, clutter-free area</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Use chair or wall support if needed</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Stop immediately if you feel dizziness or chest pain</h1> 
             </Grid>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>
               <FaCheck className='text-green-400' /> 
-              <h1 className='text-xl'>Improves mobility and flexibility</h1> 
+              <h1 className='text-xl'>Consult your doctor before starting</h1> 
             </Grid>
 
         </Grid>     
