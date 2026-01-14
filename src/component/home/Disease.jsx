@@ -21,7 +21,7 @@ function Disease() {
          </ul>
       </div>
       <div>
-        <img className='w-150' src="/dises.png" alt="" />
+        <img className='w-150' src="/dises.png" alt="Dises imae" />
       </div>
    
     </Grid>
