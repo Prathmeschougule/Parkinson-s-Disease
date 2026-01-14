@@ -7,7 +7,7 @@ function Benefits() {
   <>
       <div className='' >
         <div className='p-5 bg-gradient-to-r from-emerald-800 w-screen to-emerald-0 bg-transparent'>
-          <h1 className='text-5xl font-semibold text-white'>Benefits of Home Physiotherapy</h1>
+          <h1 className='text-3xl sm:4xl lg:text-5xl font-semibold text-white'>Benefits of Home Physiotherapy</h1>
         </div>  
         <Grid  container  rowSpacing={1} className={"mt-4"} justifyContent={"center"} columnSpacing={{ xs: 1, sm: 2, md: 3 } }>
             <Grid size={4} className={"bg-blue-100 p-6 flex items-center gap-2 transition-colors duration-300 hover:bg-blue-200" }>

@@ -8,7 +8,7 @@ function Disease() {
       >
       <div >
         <div className='p-5 bg-gradient-to-r from-emerald-800 to-emerald-0 bg-transparent'>
-          <h1 className='text-5xl font-semibold text-white'>What is Parkinson’s Disease?</h1>
+          <h1 className='text-3xl sm:4xl lg:text-5xl  font-semibold text-white'>What is Parkinson’s Disease?</h1>
         </div>
         <p className='text-xl mt-2 text-gray-500'>Parkinson’s disease is a neurological  condition that<br /> affects movement.</p>
         <p className='text-2xl mt-3 '>Common problems include:</p>

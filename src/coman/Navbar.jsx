@@ -9,7 +9,7 @@ function Navbar() {
         <div className="flex justify-between items-center h-16">
 
           {/* Logo / Brand */}
-          <h1 className="text-xl font-bold tracking-wide">
+          <h1 className="text-[17px] lg:text-xl font-bold tracking-wide">
             MoveWell Parkinson
           </h1>
 
@@ -54,8 +54,8 @@ function Navbar() {
 
       {/* Mobile Menu */}
       {open && (
-        <div className="md:hidden bg-blue-600 px-4 pb-4 space-y-3">
-          <a href="#" className="block hover:text-blue-200">Home</a>
+        <div className="md:hidden bg-blue-50 px-4 pb-4 space-y-3">
+          <a href="#" className="block hover:text-blue-200" onClick={() => setOpen(!open)}>Home</a>
           <a href="#" className="block hover:text-blue-200">Exercises</a>
           <a href="#" className="block hover:text-blue-200">About</a>
         </div>

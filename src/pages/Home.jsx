@@ -3,6 +3,8 @@ import HeroSection from '../component/home/HeroSection'
 import Disease from '../component/home/Disease'
 import Benefits from '../component/home/Benefits'
 import ExerciseProgram from '../component/home/ExerciseProgram'
+import Footer from '../coman/Footer'
+import AccessibleTable from '../component/home/AccessibleTable'
 
 function Home() {
   return (
@@ -11,6 +13,9 @@ function Home() {
        <Disease/>
        <Benefits/>
        <ExerciseProgram/>
+        <AccessibleTable/>
+       <Footer/>
+      
     </div>
   )
 }
