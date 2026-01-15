@@ -4,7 +4,7 @@ import { FaTwitter, FaYoutube } from 'react-icons/fa'
 
 function Footer() {
   return (
-   <div className='w-screen h-[200px] bg-neutral-900  text-white mt-8'>
+   <div className='w-full h-[200px] bg-neutral-900  text-white mt-8'>
   <div className='main max-w-[1300px] mx-auto flex justify-between items-center pt-7'>
     <div>
       <h1 className='text-3xl font-semibold'>MoveWell Parkinson</h1>

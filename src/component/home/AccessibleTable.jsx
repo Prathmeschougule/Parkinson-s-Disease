@@ -23,7 +23,6 @@ function AccessibleTable() {
       <tr class="hover:bg-gray-50 transition-colors">
         <td class="px-6 py-4 text-sm text-gray-800">Morning</td>
         <td class="px-6 py-4 text-sm text-gray-600">Stretching + Walking </td>
-    
       </tr>
 
       <tr class="hover:bg-gray-50 transition-colors">

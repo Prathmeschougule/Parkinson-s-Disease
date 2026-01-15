@@ -1,10 +1,11 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="bg-green-300 text- w-full ">
+    <nav className="bg-green-300 text- w-full fixed top-0  z-10 ">
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
 
@@ -15,8 +16,8 @@ function Navbar() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-8">
-            <a href="#" className="hover:text-white transition text-lg">Home</a>
-            <a href="#" className="hover:text-white transition text-lg">Exercises</a>
+            <Link to={"/"}> <a href="#" className="hover:text-white transition text-lg">Home</a></Link>
+            <Link to={"/Exercise"}><a href="#" className="hover:text-white transition text-lg">Exercises</a></Link>
             <a href="#" className="hover:text-white transition text-lg">Notes</a>
             <a href="#" className="hover:text-white transition text-lg">About</a>
           </div>

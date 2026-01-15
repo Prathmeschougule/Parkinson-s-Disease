@@ -14,7 +14,7 @@ function Home() {
        <Benefits/>
        <ExerciseProgram/>
         <AccessibleTable/>
-       <Footer/>
+      
       
     </div>
   )
