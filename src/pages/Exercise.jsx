@@ -6,7 +6,6 @@ function Exercise() {
   return (
     <div>
       <ExerciseHeroSection/>
-      <ExerciseProgram/>
     </div>
   )
 }

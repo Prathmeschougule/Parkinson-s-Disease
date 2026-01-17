@@ -2,6 +2,7 @@ import React from 'react'
 
 function HeroSection() {
   return (
+    
     <div>
       <div className=" h-100  w-screen text-center  flex flex-col items-center justify-center bg-blue-50">
         <p className="text-lg sm:text-2xl lg:text-4xl font-semibold bg-gradient-to-r from-emerald-400 to-emerald-800 bg-clip-text text-transparent"> Home Physiotherapy for</p>

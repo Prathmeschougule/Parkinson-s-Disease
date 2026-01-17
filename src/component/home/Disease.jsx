@@ -23,7 +23,6 @@ function Disease() {
       <div>
         <img className='w-150' src="/dises.png" alt="Dises imae" />
       </div>
-   
     </Grid>
   )
 }

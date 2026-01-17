@@ -13,9 +13,7 @@ function Home() {
        <Disease/>
        <Benefits/>
        <ExerciseProgram/>
-        <AccessibleTable/>
-      
-      
+       <AccessibleTable/> 
     </div>
   )
 }
